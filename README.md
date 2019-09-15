@@ -49,8 +49,5 @@ Things you need to install:
 
 ## Contributers
 
-	* Aayush Sharma - aayush1771
-	* Anil Chhipa	- adhv45
-	* Sameer Mansuri- sameer91
-	* Akash Soni	- soniakash1998
-	* Divyanshu Dhawan - dextroxd
+	* Shreyash Indurkar - Shreyashin
+	* Manjeet Singh Rana	- Manjeet97
