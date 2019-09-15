@@ -50,4 +50,4 @@ Things you need to install:
 ## Contributers
 
 	* Shreyash Indurkar - Shreyashin
-	* Manjeet Singh Rana	- Manjeet97
+	* Manjeet Singh Rana	- Manjeetsr
